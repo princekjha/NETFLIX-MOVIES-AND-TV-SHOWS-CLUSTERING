@@ -27,9 +27,7 @@
 <ul>
   <li><b>NETFLIX MOVIES AND TV SHOWS CLUSTERING.csv</b> - Input dataset having information about different shows/movies available on Netflix.</li>
 </ul>
-<h4>Data Source:</h4>
-<li><b>https://learn.almabetter.com/courses/take/team-capstone-projects/texts/27395237-netflix-movies-and-tv-shows-clustering.</li>
-<ul>
+
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
