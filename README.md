@@ -1,6 +1,4 @@
 # NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING
-<h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
 
 <p align="center"> 
 <img src="Gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
